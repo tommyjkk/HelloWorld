@@ -1,0 +1,3 @@
+name: Hello World
+main: com.github.tommyjkk.HelloWorld.HelloWorld
+version: 1
